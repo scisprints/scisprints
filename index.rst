@@ -1,5 +1,5 @@
-A joint scikit-learn, scikit-image, dask sprint
-================================================
+Sprints to improve OpenSource Scientific Software
+=================================================
 
 
 OpenSource scientific software is a crucial block of scientific discovery, yet
@@ -9,6 +9,15 @@ specific problems long enough to find optimal solutions. We see sprints as one
 very effective way of addressing these concerns, since bringing together
 contributors strengthens social bonds and allows for much higher bandwidth
 communications.
+
+With the above in mind, we are organizing a series of sprints to improve
+various libraries in the scientific Python ecosystem.
+
+.. contents::
+
+
+A joint scikit-learn, scikit-image, dask sprint
+-----------------------------------------------
 
 scikit-learn and scikit-image are two of the major scientific Python toolbox,
 enabling data-driven discoveries. The first one proposes simple yet efficient
@@ -23,16 +32,5 @@ Python. Our goal is thus to organiza sprint bringing together a small number
 of developers from scikit-learn, scikit-image, and Dask to experiment and
 improve the three libraries.
 
-Attendees
----------
-
-- Gael Varoquaux
-- Emmanuelle Gouillart
-- Stéfan van der Walt
-- Matthew Rocklin
-- Juan Nunez-Inglesias
-- Olivier Grisel
-- Nelle Varoquaux
-- K. Jarrod Millman
-- Tom Augspurger
-- Jim Crist
+**Dates**: May, 28th to June 2nd
+**Location**: Berkeley Institute for Data Science
