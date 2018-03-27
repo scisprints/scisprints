@@ -1,8 +1,6 @@
 # Upcoming
 
-## [21–22 March] NumPy Enhancement Proposal sprint
-
-## [30 March] GraphXD sprint
+## [29 - 30 March] Matplotlib/GraphXD sprint
 
 ## [28 May–2 June] Joint scikit-learn, scikit-image, dask sprint
 
@@ -22,4 +20,8 @@ improve the three libraries.
 **Dates**: May, 28th to June 2nd
 **Location**: Berkeley Institute for Data Science
 
-## Past Sprints
+# Past Sprints
+
+
+## [21–22 March] NumPy Enhancement Proposal sprint
+
