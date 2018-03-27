@@ -2,18 +2,27 @@
 
 ## [29 - 30 March] Matplotlib/GraphXD sprint
 
-Plotting graphs in Python is right now limited. Matplotlib, the core plotting
-library in Python, does not support plotting graphs. As a result, networkx, a
-toolbox for working on complex networks, included in its core utilities to
-ease visualization of graphs, putting unecessary maintenance stress on
-networkx core developers.
+Visualizing the structure of graphs is a crucial component of network analysis,
+and it has limited support in the Python community. NetworkX is the community
+standard in representing and analyzing graphs, but it is not meant to be a
+visualization package. NetworkX has some simple visualization capability, but
+it is not a fully-featured solution for visualizing graphs, and is a maintenance
+burden on their core development team. On the other hand, Matplotlib is the core plotting library
+in the Python ecosystem, though it has no official support for graph structures.
 
-Leveraging the presence of Matplotlib (the core plotting library in Python)
-and networkx (complex network toolbox) core-developers during [GraphXD](https://graphxd.github.io/workshop/2018.html>), we will be working on
-building a small library extending Matplotlib's functionnalities for plotting
-networks. A first step will be to extract the visualization support present in
-networkx.
- 
+At [GraphXD](https://graphxd.github.io/workshop/2018.html>)
+we have brought together core members of the NetworkX and
+Matplotlib communities. During the week's sprints, we'll work together to
+improve the state of graph visualization in Python. We have the following goals:
+
+* Build a small library in Python that utilizes Matplotlib and NetworkX for
+  visualizing graph structures.
+* Factor out the visualization components of NetworkX into this library, such that
+  the analytics features of NetworkX are separate from the visualization features of
+  the new library.
+
+We plan for this package to continue growing beyond the GraphXD sprint, and to
+become a community standard in visualizing graphs with Python. 
 
 **Dates**: March, 28th and 29th
 **Location**: Berkeley Institute for Data Science
