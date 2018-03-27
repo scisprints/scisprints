@@ -1,23 +1,10 @@
-Sprints to improve OpenSource Scientific Software
-=================================================
+# Upcoming
 
+## [21–22 March] NumPy Enhancement Proposal sprint
 
-OpenSource scientific software is a crucial block of scientific discovery, yet
-relies mostly volunteers scattered across the glob: this makes it hard to
-build communities, to rapidly conduct complex discussions, and to focus on
-specific problems long enough to find optimal solutions. We see sprints as one
-very effective way of addressing these concerns, since bringing together
-contributors strengthens social bonds and allows for much higher bandwidth
-communications.
+## [30 March] GraphXD sprint
 
-With the above in mind, we are organizing a series of sprints to improve
-various libraries in the scientific Python ecosystem.
-
-.. contents::
-
-
-A joint scikit-learn, scikit-image, dask sprint
------------------------------------------------
+## [28 May–2 June] Joint scikit-learn, scikit-image, dask sprint
 
 scikit-learn and scikit-image are two of the major scientific Python toolbox,
 enabling data-driven discoveries. The first one proposes simple yet efficient
@@ -34,3 +21,5 @@ improve the three libraries.
 
 **Dates**: May, 28th to June 2nd
 **Location**: Berkeley Institute for Data Science
+
+## Past Sprints

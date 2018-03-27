@@ -1,7 +1,13 @@
 <br/>
 
-<H4>Navigation</H4>
-{{ toctree(includehidden=theme_sidebar_includehidden, collapse=theme_sidebar_collapse) }}
+<div style="width: 100%; text-align: center;" id="sideIndex">
+  <div class="sideEntry"><a href="motivation.html">Motivation</a></div>
+  <div class="sideEntry"><a href="index.html">Sprints</a></div>
+</div>
+
+<div style="width: 100%; text-align: center;">
+  {{ toctree(includehidden=theme_sidebar_includehidden, collapse=theme_sidebar_collapse) }}
+</div>
 
 {% if theme_extra_nav_links %}
 <hr />
