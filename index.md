@@ -2,27 +2,29 @@
 
 ## [29 - 30 March] Matplotlib/GraphXD sprint
 
-Visualizing the structure of graphs is a crucial component of network analysis,
-and it has limited support in the Python community. NetworkX is the community
-standard in representing and analyzing graphs, but it is not meant to be a
-visualization package. NetworkX has some simple visualization capability, but
-it is not a fully-featured solution for visualizing graphs, and is a maintenance
-burden on their core development team. On the other hand, Matplotlib is the core plotting library
-in the Python ecosystem, though it has no official support for graph structures.
+Visualizing the structure of graphs is informative when doing network
+analysis, but currently is not well supported by scientific Python
+tools. NetworkX is the community standard for representing and
+analyzing graphs and, while capable of simple visualization,
+historically has not emphasized this feature in order to avoid
+additional maintenance burden.  Matplotlib, on the other hand, is the
+predominant plotting library in the Python ecosystem, but has no
+official support for graph structures.
 
 At [GraphXD](https://graphxd.github.io/workshop/2018.html>)
 we have brought together core members of the NetworkX and
-Matplotlib communities. During the week's sprints, we'll work together to
-improve the state of graph visualization in Python. We have the following goals:
+Matplotlib communities. At the event sprints, we will work together to
+improve the state of graph visualization in Python. Specifically, we
+aim to:
 
-* Build a small library in Python that utilizes Matplotlib and NetworkX for
-  visualizing graph structures.
-* Factor out the visualization components of NetworkX into this library, such that
-  the analytics features of NetworkX are separate from the visualization features of
-  the new library.
+* build a small library in Python that utilizes Matplotlib and
+  NetworkX for visualizing graph structures, and
+* factor out the visualization components of NetworkX into this new
+  library, such that the analytics features of NetworkX remain
+  separate.
 
 We plan for this package to continue growing beyond the GraphXD sprint, and to
-become a community standard in visualizing graphs with Python. 
+become a community standard in visualizing graphs with Python.
 
 **Dates**: March, 28th and 29th
 **Location**: Berkeley Institute for Data Science
