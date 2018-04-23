@@ -18,6 +18,26 @@ improve the three libraries.
 **Dates**: May, 28th to June 2nd
 **Location**: Berkeley Institute for Data Science
 
+## [24 - 25 May] NumPy developer sprint
+
+NumPy is the fundamental numerical package for scientific computing in Python.
+It is a Python library that provides a multidimensional array object, and an
+assortment of routines for fast operations on arrays. While useful on its own,
+the array object is the core data structure for many packages in the Python
+landscape, including Pandas, OpenCV's python bindings, and deep learning
+frameworks such as TensorFlow and PyTorch.
+
+NumPy is managed by a steering committee, and run by a group of developers who
+rarely meet in person. The stars have aligned, and a group of the steering
+committee/core developers will be in Berkeley for two days.
+
+We will discuss and maybe even resolve some of the thornier open pull requests
+and issues, set some short term goals, and better define deeper issues that
+need more community input.
+
+**Dates**: May 24-25, 2018 
+**Location**: Berkeley Institute for Data Science
+
 # Past Sprints
 
 ## [29 - 30 March] Matplotlib/GraphXD sprint
