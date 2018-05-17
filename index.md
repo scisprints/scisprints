@@ -15,8 +15,11 @@ Python. Our goal is thus to organize a sprint bringing together a small number
 of developers from scikit-learn, scikit-image, and Dask to experiment and
 improve the three libraries.
 
+**Repository for ideas**: [https://github.com/scisprints/2018_05_sklearn_skimage_dask](https://github.com/scisprints/2018_05_sklearn_skimage_dask/issues)
+
 **Dates**: May, 28th to June 2nd
-**Location**: Berkeley Institute for Data Science
+
+**Location**: Monday: Evans, Tue–Fri: Berkeley Institute for Data Science
 
 ## [24 - 25 May] NumPy developer sprint
 
