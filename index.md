@@ -19,7 +19,8 @@ improve the three libraries.
 
 **Dates**: May, 28th to June 2nd
 
-**Location**: Monday: Evans, Tue–Fri: Berkeley Institute for Data Science
+**Location**: Monday: Evans, Tue–Fri: [Berkeley Institute for Data
+Science](bids.html)
 
 ## [24 - 25 May] NumPy developer sprint
 
