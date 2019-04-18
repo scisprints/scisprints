@@ -1,6 +1,18 @@
 # Upcoming
 
-## [28 May–2 June] Joint scikit-learn, scikit-image, dask sprint
+## [10, 11 May 2019] NumPy developer sprint
+
+Several NumPy core developers will be meeting to review the new random
+number generation system API, plan the dtype refactoring, and work on
+reviewing/closing PRs and issues.
+
+**Agenda**: [https://hackmd.io/OtUbEI_4T06noPYtlLp-4w](https://hackmd.io/OtUbEI_4T06noPYtlLp-4w)
+
+**Location**: Berkeley Institute for Data Science
+
+# Past Sprints
+
+## [28 May–2 June 2018] Joint scikit-learn, scikit-image, dask sprint
 
 scikit-learn and scikit-image are two of the major scientific Python toolbox,
 enabling data-driven discoveries. The first one proposes simple yet efficient
@@ -17,7 +29,7 @@ improve the three libraries.
 
 **Repository for ideas**: [https://github.com/scisprints/2018_05_sklearn_skimage_dask](https://github.com/scisprints/2018_05_sklearn_skimage_dask/issues)
 
-**Dates**: May, 28th to June 2nd
+**Dates**: May, 28th to June 2nd, 2018
 
 **Location**: Monday: Evans, Tue–Fri: [Berkeley Institute for Data
 Science](bids.html)
@@ -42,9 +54,7 @@ need more community input.
 **Dates**: May 24-25, 2018 
 **Location**: Berkeley Institute for Data Science
 
-# Past Sprints
-
-## [29 - 30 March] Matplotlib/GraphXD sprint
+## [29 - 30 March, 2018] Matplotlib/GraphXD sprint
 
 Visualizing the structure of graphs is informative when doing network
 analysis, but currently is not well supported by scientific Python
@@ -70,11 +80,8 @@ aim to:
 We plan for this package to continue growing beyond the GraphXD sprint, and to
 become a community standard in visualizing graphs with Python.
 
-**Dates**: March, 28th and 29th
+**Dates**: March, 28th and 29th, 2018
 **Location**: Berkeley Institute for Data Science
 
 
-
-
-## [21–22 March] NumPy Enhancement Proposal sprint
-
+## [21–22 March 2018] NumPy Enhancement Proposal sprint
