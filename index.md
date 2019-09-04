@@ -1,5 +1,16 @@
 # Upcoming
 
+## [22, 23 Nov 2019] NumPy developer sprint
+
+Several NumPy core developers and the BIDS NumPy staff will be meeting to work
+on the dtype refactoring, numpy-wheels, and work on reviewing/closing PRs and
+issues. Perhaps some of the new documentation team will attend.
+
+**Agenda**: [https://hackmd.io/t06nCEAfSJ6DhPnkhlUDRg](https://hackmd.io/t06nCEAfSJ6DhPnkhlUDRg)
+
+**Location**: Berkeley Institute for Data Science
+
+
 ## [10, 11 May 2019] NumPy developer sprint
 
 Several NumPy core developers will be meeting to review the new random
