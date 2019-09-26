@@ -1,5 +1,22 @@
 # Upcoming
 
+## [22, 23 Nov 2019] NumPy developer sprint
+
+Several NumPy core developers, the BIDS NumPy staff, and possibly some of the
+documentation team will be meeting to:
+- refresh the NumPy roadmap
+- discuss DuckArray protocol/dispatchin
+- review the dtype refactoring
+- revamp the MacPython/numpy-wheels repo
+- work on reviewing/closing PRs and issues.
+
+and more.
+
+**Agenda**: [https://hackmd.io/t06nCEAfSJ6DhPnkhlUDRg](https://hackmd.io/t06nCEAfSJ6DhPnkhlUDRg)
+
+**Location**: Berkeley Institute for Data Science
+
+
 ## [10, 11 May 2019] NumPy developer sprint
 
 Several NumPy core developers will be meeting to review the new random
