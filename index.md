@@ -2,9 +2,15 @@
 
 ## [22, 23 Nov 2019] NumPy developer sprint
 
-Several NumPy core developers and the BIDS NumPy staff will be meeting to work
-on the dtype refactoring, numpy-wheels, and work on reviewing/closing PRs and
-issues. Perhaps some of the new documentation team will attend.
+Several NumPy core developers, the BIDS NumPy staff, and possibly some of the
+documentation team will be meeting to:
+- refresh the NumPy roadmap
+- discuss DuckArray protocol/dispatchin
+- review the dtype refactoring
+- revamp the MacPython/numpy-wheels repo
+- work on reviewing/closing PRs and issues.
+
+and more.
 
 **Agenda**: [https://hackmd.io/t06nCEAfSJ6DhPnkhlUDRg](https://hackmd.io/t06nCEAfSJ6DhPnkhlUDRg)
 
