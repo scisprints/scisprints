@@ -16,6 +16,7 @@ and more.
 
 **Location**: Berkeley Institute for Data Science
 
+# Past Sprints
 
 ## [10, 11 May 2019] NumPy developer sprint
 
@@ -26,8 +27,6 @@ reviewing/closing PRs and issues.
 **Agenda**: [https://hackmd.io/OtUbEI_4T06noPYtlLp-4w](https://hackmd.io/OtUbEI_4T06noPYtlLp-4w)
 
 **Location**: Berkeley Institute for Data Science
-
-# Past Sprints
 
 ## [28 May–2 June 2018] Joint scikit-learn, scikit-image, dask sprint
 
