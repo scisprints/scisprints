@@ -28,6 +28,10 @@ reviewing/closing PRs and issues.
 
 **Location**: Berkeley Institute for Data Science
 
+## [30 Nov, 1 Dec 2018] NumPy developer sprint
+
+We met and discussed NumPy's roadmap, low-level NumPy-like libraries, data type refactoring, and type annotations.  Please refer to the [meeting notes](https://github.com/BIDS-numpy/docs/blob/master/meetings/2018-11-30-dev-meeting.md) for more information.
+
 ## [28 May–2 June 2018] Joint scikit-learn, scikit-image, dask sprint
 
 scikit-learn and scikit-image are two of the major scientific Python toolbox,
