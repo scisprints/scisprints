@@ -4,8 +4,9 @@
 
 Several NumPy core developers, the BIDS NumPy staff, and possibly some of the
 documentation team will be meeting to:
+
 - refresh the NumPy roadmap
-- discuss DuckArray protocol/dispatchin
+- discuss DuckArray protocol/dispatching
 - review the dtype refactoring
 - revamp the MacPython/numpy-wheels repo
 - work on reviewing/closing PRs and issues.
@@ -16,9 +17,15 @@ and more.
 
 **Location**: Berkeley Institute for Data Science
 
+## [15 Oct 2019] NumPy "Spring Cleaning" sprint
+
+At this virtual sprint, we will close as many PRs and issues as we can.
+
 # Past Sprints
 
 ## [10, 11 May 2019] NumPy developer sprint
+
+[Meeting notes](https://github.com/BIDS-numpy/docs/blob/master/meetings/2019-05-10_dev_meetup.md)
 
 Several NumPy core developers will be meeting to review the new random
 number generation system API, plan the dtype refactoring, and work on
@@ -30,7 +37,9 @@ reviewing/closing PRs and issues.
 
 ## [30 Nov, 1 Dec 2018] NumPy developer sprint
 
-We met and discussed NumPy's roadmap, low-level NumPy-like libraries, data type refactoring, and type annotations.  Please refer to the [meeting notes](https://github.com/BIDS-numpy/docs/blob/master/meetings/2018-11-30-dev-meeting.md) for more information.
+[Meeting notes](https://github.com/BIDS-numpy/docs/blob/master/meetings/2018-11-30-dev-meeting.md)
+
+We met and discussed NumPy's roadmap, low-level NumPy-like libraries, data type refactoring, and type annotations.
 
 ## [28 May–2 June 2018] Joint scikit-learn, scikit-image, dask sprint
 
@@ -54,7 +63,7 @@ improve the three libraries.
 **Location**: Monday: Evans, Tue–Fri: [Berkeley Institute for Data
 Science](bids.html)
 
-## [24 - 25 May] NumPy developer sprint
+## [24, 25 May 2018] NumPy developer sprint
 
 NumPy is the fundamental numerical package for scientific computing in Python.
 It is a Python library that provides a multidimensional array object, and an
@@ -71,7 +80,7 @@ We will discuss and maybe even resolve some of the thornier open pull requests
 and issues, set some short term goals, and better define deeper issues that
 need more community input.
 
-**Dates**: May 24-25, 2018 
+**Dates**: May 24-25, 2018
 **Location**: Berkeley Institute for Data Science
 
 ## [29 - 30 March, 2018] Matplotlib/GraphXD sprint
@@ -105,3 +114,8 @@ become a community standard in visualizing graphs with Python.
 
 
 ## [21–22 March 2018] NumPy Enhancement Proposal sprint
+
+- [NEP 17 — Split Out Masked Arrays](https://numpy.org/neps/nep-0017-split-out-maskedarray.html)
+- [NEP 18 — A dispatch mechanism for NumPy’s high level array functions](https://numpy.org/neps/nep-0018-array-function-protocol.html)
+- [NEP 19 — Random Number Generator Policy](https://numpy.org/neps/nep-0019-rng-policy.html)
+- [NEP 22 — Duck typing for NumPy arrays – high level overview](https://numpy.org/neps/nep-0022-ndarray-duck-typing-overview.html)
