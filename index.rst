@@ -15,7 +15,7 @@ of the documentation team will be meeting to:
 
 and more.
 
-**Agenda**: https://hackmd.io/t06nCEAfSJ6DhPnkhlUDRg
+**Notes**: https://github.com/numpy/archive/blob/master/sprints/2019-11-22.md
 
 **Location**: Berkeley Institute for Data Science
 
